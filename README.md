@@ -1,6 +1,6 @@
 ## Getting Started
 
-git clone https://github.com/NecipAkgz/nextjs12-with-tailwind <projectName>
+`git clone https://github.com/NecipAkgz/nextjs12-with-tailwind <projectName>`
 
 ## Getting Started
 
